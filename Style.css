@@ -1,0 +1,114 @@
+ul {
+  margin-left: 0px;
+  width: 1000px;
+
+  font-size: 25px;
+  font-family: "Impact" 
+  
+
+}
+
+
+ul {
+  font-size: 25px;
+  font-family: "Impact"     
+}
+
+ul {
+  width: 1200px;
+  border: 8px solid black;
+  padding: 37px;
+  margin: 25px;
+}
+
+
+h1 {
+  width: 1200px;
+  border: 8px solid black;
+  padding: 0.5px;
+  margin: 1px;
+}
+
+p {
+  font-size: 15px;
+  font-family: "Derby"
+}
+p {
+  background-color: rgb(255, 210, 71);
+  width: 700px;
+  border: 7px solid rgb(0, 0, 0);
+  padding: 20px;
+  margin: 20px;
+}
+
+p {
+  font-size: 25px;
+  font-family: "Georgia"
+}
+
+
+h1 {
+  margin-left: 10px;
+  width: 1300px;
+  background-color: rgb(255, 153, 51)
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  h1 {
+    font-size: 50px;
+    font-family: "Impact"
+  }
+  
+  li {
+    display: inline;
+  
+  }
+
+
+  h2 {
+    background-color: orange;
+    color: Black;
+    width: 200px;
+    border: 4px solid black;
+    padding: 5px;
+    margin: 20px;
+  }
+
+
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #333;
+}
+
+li {
+float: left;
+}
+
+li a {
+display: block;
+color: black;
+text-align: center;
+padding: 20px 45px;
+text-decoration: none;
+background-color: orange;
+}
+
+
+li a:hover {
+background-color: rgb(247, 244, 242);
+}
+
+
+h2 {
+    font-size: 21px;
+    font-family: "Derby"
+  }
